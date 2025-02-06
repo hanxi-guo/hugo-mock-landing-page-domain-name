@@ -1,0 +1,46 @@
+# Issue Report: Image Rendering Behavior in Hugo
+
+## **Problem Summary**
+When running the `hugo server -D --disableFastRender` command:
+- **Sub-repo (original Hugo Bootstrap theme)**: Images render correctly.
+- **hugo-mock-landing-page repo**: Images do not render, leaving placeholders or broken image spaces.
+
+This inconsistency raises questions about the cause of the rendering differences between the two repositories.
+
+---
+
+## **Steps to Reproduce**
+
+1. Navigate to the sub-repo and run:
+
+```
+cd /themes/hugo-bootstrap-theme/exampleSite
+hugo server -D --disableFastRender
+```
+
+-  Images are rendered correctly on the locally served website.
+![[issue_assert/unable_render.png]]
+  
+
+1. Navigate to hugo-mock-landing-page and run:
+
+```
+cd hugo-mock-landing-page
+hugo server -D --disableFastRender
+```
+-  Images do not render correctly, leaving empty placeholders.
+
+![[issue_assert/false-render.png]]
+
+
+**My thought**
+1. firstly I could make sure that I already download 
+` @filipecarneiro/hugo-bootstrap-theme` and `npm` and `node.js` by using 
+```
+npm -v
+node -v
+```
+
+2. basically I follow the instruction in `readme.md` in original theme repository except for `themesdir = "node_modules/@filipecarneiro"` since our HW1 instruction need us to delete this line
+3. I couldn't find where the figure that need to be render is, thus I have no idea how to solve this issue now
+4. 

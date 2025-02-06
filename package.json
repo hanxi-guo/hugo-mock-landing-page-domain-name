@@ -1,0 +1,24 @@
+{
+  "name": "hugo-mock-landing-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanxi-guo/hugo-mock-landing-page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/hanxi-guo/hugo-mock-landing-page/issues"
+  },
+  "homepage": "https://github.com/hanxi-guo/hugo-mock-landing-page#readme",
+  "dependencies": {
+    "@filipecarneiro/hugo-bootstrap-theme": "^1.0.49"
+  }
+}
