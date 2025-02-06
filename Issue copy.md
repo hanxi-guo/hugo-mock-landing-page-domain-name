@@ -19,7 +19,7 @@ hugo server -D --disableFastRender
 ```
 
 -  Images are rendered correctly on the locally served website.
-![[issue_assert/unable_render.png]]
+ ![scenario1](issue_assert/false-render.png)
   
 
 1. Navigate to hugo-mock-landing-page and run:
@@ -30,7 +30,7 @@ hugo server -D --disableFastRender
 ```
 -  Images do not render correctly, leaving empty placeholders.
 
-![[issue_assert/false-render.png]]
+ ![scenario2](issue_assert/unable_render.png)
 
 
 **My thought**
