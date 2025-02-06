@@ -16,16 +16,13 @@ aliases:
 
 Open-source MIT Licensed Hugo Theme, using Bootstrap 5.
 
-- 🛡️ Security aware
+- 	🏠 Room Scanner
+Quickly scan your dorm room and generate an interactive 3D model to help you plan your layout before unpacking.
 
-  Get A+ scores on Mozilla Observatory out of the box. Easily change the default Security Headers to suit your needs.
+- 🎒 Packing Optimizer
+Generate a tailored packing list to ensure you bring essentials while staying within your luggage weight limit.
 
-- ⚡ Fast by default
-
-  Get 100 scores on Google Lighthouse by default. Hugo Bootstrap Theme removes unused css, prefetches links, and lazy loads images.
-
-- 📈 SEO-ready
-
-  Use sensible defaults for structured data, open graph, and Twitter cards. Or easily change the Search Engine Optimization settings to your liking.
+- 🛒 Shopping Planner
+Receive a personalized list of essential items based on the local cost of living to help prioritize purchases efficiently.
 
 Check the [GitHub repository](https://github.com/filipecarneiro/hugo-bootstrap-theme) for the release notes.
