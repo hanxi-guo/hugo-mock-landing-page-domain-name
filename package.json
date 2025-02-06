@@ -10,15 +10,27 @@
     "type": "git",
     "url": "git+https://github.com/hanxi-guo/hugo-mock-landing-page.git"
   },
-  "keywords": [],
+  "keywords": [
+    "hugo",
+    "hugo theme",
+    "bootstrap",
+    "bootstrap 5",
+    "static site generator"
+  ],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "type": "commonjs",
   "bugs": {
     "url": "https://github.com/hanxi-guo/hugo-mock-landing-page/issues"
   },
   "homepage": "https://github.com/hanxi-guo/hugo-mock-landing-page#readme",
-  "dependencies": {
-    "@filipecarneiro/hugo-bootstrap-theme": "^1.0.49"
+  "devDependencies": {
+    "bootstrap": "^5.3.3",
+    "feather-icons": "^4.29.2",
+    "exec-bin": "^1.0.0",
+    "hugo-installer": "^4.0.1"
+  },
+  "otherDependencies": {
+    "hugo": "0.136.4"
   }
 }

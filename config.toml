@@ -5,6 +5,8 @@ copyright = "Open-source <a class=\"text-muted text-decoration-none\" href=\"htt
 
 timeZone = 'America/New_York'
 
+
+
 # Multilingual
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
@@ -17,6 +19,13 @@ enableRobotsTXT = true
 enableEmoji = true
 #sectionPagesMenu = "main"
 #googleAnalytics = "UA-1511XXXX-X"
+
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [frontmatter]
   date = ["date", "publishDate", "lastmod"]
