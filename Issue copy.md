@@ -18,11 +18,11 @@ cd /themes/hugo-bootstrap-theme/exampleSite
 hugo server -D --disableFastRender
 ```
 
--  Images are rendered correctly on the locally served website.
+ -  Images are rendered correctly on the locally served website.
  ![scenario1](issue_assert/false-render.png)
   
 
-1. Navigate to hugo-mock-landing-page and run:
+2. Navigate to hugo-mock-landing-page and run:
 
 ```
 cd hugo-mock-landing-page
