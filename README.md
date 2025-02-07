@@ -1,6 +1,6 @@
 # DormGenie Mock Landing Page
 
-Welcome to the **DormGenie Mock Landing Page project! This is a minimalistic, fast, and responsive landing page built using [Hugo](https://gohugo.io/getting-started/installing/)—one of the world’s fastest static site generators. The theme is built based on [bootstramp template](https://github.com/filipecarneiro/hugo-bootstrap-theme) The site introduces *DormGenie*, a smart relocation assistant designed to streamline packing, shopping, and room setup for students, expats, and busy professionals.
+Welcome to the **DormGenie** Mock Landing Page project! This is a minimalistic, fast, and responsive landing page built using [Hugo](https://gohugo.io/getting-started/installing/)—one of the world’s fastest static site generators. The theme is built based on [bootstramp template](https://github.com/filipecarneiro/hugo-bootstrap-theme) The site introduces *DormGenie*, a smart relocation assistant designed to streamline packing, shopping, and room setup for students, expats, and busy professionals.
 
 ---
 
