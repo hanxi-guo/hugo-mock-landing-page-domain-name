@@ -59,4 +59,4 @@ To copy the contents of the sample site to your main site (e.g., hugo-mock-landi
 
 ---
 ## Acknowledgments  
-Special thanks to [Prof.Jérémie Lumbroso]([https://github.com/johndoe](https://github.com/jlumbroso)) for valuable support and advice!
+Special thanks to [Prof.Jérémie Lumbroso]([https://github.com/jlumbroso]()) for valuable support and advice!
