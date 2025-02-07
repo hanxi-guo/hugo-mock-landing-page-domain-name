@@ -42,7 +42,6 @@ node -v
 ```
 
 2. basically I follow the instruction in `readme.md` in original theme repository except for `themesdir = "node_modules/@filipecarneiro"` since our HW1 instruction need us to delete this line
-3. I couldn't find where the figure that need to be render is, thus I have no idea how to solve this issue now
 
 Thank you for taking the time to review this issue and for any feedback you can provide. Your help is greatly appreciated! 😊
 
@@ -60,4 +59,4 @@ To copy the contents of the sample site to your main site (e.g., hugo-mock-landi
 ---
 ## Acknowledgments  
 
-Special thanks to [Jérémie Lumbroso](https://github.com/jlumbroso) for valuable support and advice!
+Special thanks to [Prof.Jérémie Lumbroso](https://github.com/jlumbroso) for valuable support and advice!
