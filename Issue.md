@@ -45,3 +45,18 @@ node -v
 3. I couldn't find where the figure that need to be render is, thus I have no idea how to solve this issue now
 
 Thank you for taking the time to review this issue and for any feedback you can provide. Your help is greatly appreciated! 😊
+
+-----
+**For those who see this issue afte Feb 6th,2025**:
+I resolved this issue by inspecting the webpage using the browser’s Inspect Tool and verifying that all image paths are correctly located. To do this, I toggled the Inspect Element Mode using Command + Shift + C. 
+
+Additionally, I ensured that the submodule configuration was correctly set up to avoid deployment issues.
+
+There is a tip for solving this problem:
+
+To copy the contents of the sample site to your main site (e.g., hugo-mock-landing-page), use the following command:
+`cp -r . ../../[destination-path]`
+
+---
+## Acknowledgments  
+Special thanks to [Prof.Jérémie Lumbroso]([https://github.com/johndoe](https://github.com/jlumbroso)) for valuable support and advice!
