@@ -47,7 +47,7 @@ node -v
 Thank you for taking the time to review this issue and for any feedback you can provide. Your help is greatly appreciated! 😊
 
 -----
-**For those who see this issue afte Feb 6th,2025**:
+**For those who see this issue afte Feb 7th,2025**:
 I resolved this issue by inspecting the webpage using the browser’s Inspect Tool and verifying that all image paths are correctly located. To do this, I toggled the Inspect Element Mode using Command + Shift + C. 
 
 Additionally, I ensured that the submodule configuration was correctly set up to avoid deployment issues.
@@ -59,4 +59,5 @@ To copy the contents of the sample site to your main site (e.g., hugo-mock-landi
 
 ---
 ## Acknowledgments  
-Special thanks to [Prof.Jérémie Lumbroso]([https://github.com/jlumbroso]()) for valuable support and advice!
+
+Special thanks to [Jérémie Lumbroso](https://github.com/jlumbroso) for valuable support and advice!
