@@ -14,6 +14,7 @@ hugo.linux
 # Hugo-generated directory
 /public/
 
+
 # Dependency directories (remove if you track dependencies)
 /node_modules/
 /resources/_gen/
