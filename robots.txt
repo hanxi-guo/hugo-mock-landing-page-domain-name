@@ -1,3 +1,3 @@
 User-agent: *
 Disallow: /404.html
-Sitemap: http://syensi.website/sitemap.xml
+Sitemap: https://syensi.website/sitemap.xml
