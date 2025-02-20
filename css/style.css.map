@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.css",
-	"sourceRoot": "/home/runner/work/test/test",
+	"sourceRoot": "/home/runner/work/hanxi-guo-hugo-mock-landing-page-autodeployed/hanxi-guo-hugo-mock-landing-page-autodeployed",
 	"sources": [
 		"assets/sass/main.scss",
 		"themes/hugo-bootstrap-theme/assets/sass/bootstrap/_functions.scss",
