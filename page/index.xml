@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Docs on DormGenie</title><link>https://hanxi-guo.github.io/hugo-mock-landing-page-autodeployed/page/</link><description>Recent content in Docs on DormGenie</description><generator>Hugo</generator><language>en</language><copyright>Open-source &lt;a class="text-muted text-decoration-none" href="https://github.com/filipecarneiro/hugo-bootstrap-theme/blob/main/LICENSE">MIT&lt;/a> Licensed.</copyright><atom:link href="https://hanxi-guo.github.io/hugo-mock-landing-page-autodeployed/page/index.xml" rel="self" type="application/rss+xml"/><item><title>Bootstrap Carousel 🎠</title><link>https://hanxi-guo.github.io/hugo-mock-landing-page-autodeployed/page/bootstrap-carousel/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hanxi-guo.github.io/hugo-mock-landing-page-autodeployed/page/bootstrap-carousel/</guid><description>&lt;h1 id="bootstrap-carousel">Bootstrap Carousel&lt;/h1>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Docs on DormGenie</title><link>https://syensi.website/page/</link><description>Recent content in Docs on DormGenie</description><generator>Hugo</generator><language>en</language><copyright>Open-source &lt;a class="text-muted text-decoration-none" href="https://github.com/filipecarneiro/hugo-bootstrap-theme/blob/main/LICENSE">MIT&lt;/a> Licensed.</copyright><atom:link href="https://syensi.website/page/index.xml" rel="self" type="application/rss+xml"/><item><title>Bootstrap Carousel 🎠</title><link>https://syensi.website/page/bootstrap-carousel/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://syensi.website/page/bootstrap-carousel/</guid><description>&lt;h1 id="bootstrap-carousel">Bootstrap Carousel&lt;/h1>
 &lt;p>A slideshow component for cycling through elements—images or slides of text — like a carousel.&lt;/p>
 &lt;br>
 &lt;div class="w-50 mx-auto">
@@ -45,8 +45,8 @@
  &lt;img class="d-block w-100"
  
  style="width: 100%; height: auto; aspect-ratio: 3/2;"
- src="https://hanxi-guo.github.io/hugo-mock-landing-page-autodeployed/carousel/bootstrap-v5-new-logo_hu_5a569efab1c93cef.webp"
- srcset="https://hanxi-guo.github.io/hugo-mock-landing-page-autodeployed/carousel/bootstrap-v5-new-logo_hu_c3225a7bd40f163f.webp 2560w, https://hanxi-guo.github.io/hugo-mock-landing-page-autodeployed/carousel/bootstrap-v5-new-logo_hu_3dcbe13c435eae7e.webp 1920w, https://hanxi-guo.github.io/hugo-mock-landing-page-autodeployed/carousel/bootstrap-v5-new-logo_hu_5a569efab1c93cef.webp 1280w, https://hanxi-guo.github.io/hugo-mock-landing-page-autodeployed/carousel/bootstrap-v5-new-logo_hu_df79bdbd424527a3.webp 960w, https://hanxi-guo.github.io/hugo-mock-landing-page-autodeployed/carousel/bootstrap-v5-new-logo_hu_95b3fb2828e71d87.webp 640w, https://hanxi-guo.github.io/hugo-mock-landing-page-autodeployed/carousel/bootstrap-v5-new-logo_hu_febcf2fbb9e6e15d.webp 320w"
+ src="https://syensi.website/carousel/bootstrap-v5-new-logo_hu_5a569efab1c93cef.webp"
+ srcset="https://syensi.website/carousel/bootstrap-v5-new-logo_hu_c3225a7bd40f163f.webp 2560w, https://syensi.website/carousel/bootstrap-v5-new-logo_hu_3dcbe13c435eae7e.webp 1920w, https://syensi.website/carousel/bootstrap-v5-new-logo_hu_5a569efab1c93cef.webp 1280w, https://syensi.website/carousel/bootstrap-v5-new-logo_hu_df79bdbd424527a3.webp 960w, https://syensi.website/carousel/bootstrap-v5-new-logo_hu_95b3fb2828e71d87.webp 640w, https://syensi.website/carousel/bootstrap-v5-new-logo_hu_febcf2fbb9e6e15d.webp 320w"
  sizes="100vw"
  alt="/carousel/bootstrap-v5-new-logo.png">
  &lt;/div>
@@ -55,8 +55,8 @@
  &lt;img class="d-block w-100"
  loading="lazy" 
  style="width: 100%; height: auto; aspect-ratio: 3/2;"
- src="https://hanxi-guo.github.io/hugo-mock-landing-page-autodeployed/carousel/hugo-bootstrap-banner_hu_ceb4a73d472cb76.webp"
- srcset="https://hanxi-guo.github.io/hugo-mock-landing-page-autodeployed/carousel/hugo-bootstrap-banner_hu_2d4464cdba789489.webp 2560w, https://hanxi-guo.github.io/hugo-mock-landing-page-autodeployed/carousel/hugo-bootstrap-banner_hu_b34ec295c79199c.webp 1920w, https://hanxi-guo.github.io/hugo-mock-landing-page-autodeployed/carousel/hugo-bootstrap-banner_hu_ceb4a73d472cb76.webp 1280w, https://hanxi-guo.github.io/hugo-mock-landing-page-autodeployed/carousel/hugo-bootstrap-banner_hu_1b87bb90c1398af4.webp 960w, https://hanxi-guo.github.io/hugo-mock-landing-page-autodeployed/carousel/hugo-bootstrap-banner_hu_4edb7a97baa8b4f0.webp 640w, https://hanxi-guo.github.io/hugo-mock-landing-page-autodeployed/carousel/hugo-bootstrap-banner_hu_f284c98c54fec102.webp 320w"
+ src="https://syensi.website/carousel/hugo-bootstrap-banner_hu_ceb4a73d472cb76.webp"
+ srcset="https://syensi.website/carousel/hugo-bootstrap-banner_hu_2d4464cdba789489.webp 2560w, https://syensi.website/carousel/hugo-bootstrap-banner_hu_b34ec295c79199c.webp 1920w, https://syensi.website/carousel/hugo-bootstrap-banner_hu_ceb4a73d472cb76.webp 1280w, https://syensi.website/carousel/hugo-bootstrap-banner_hu_1b87bb90c1398af4.webp 960w, https://syensi.website/carousel/hugo-bootstrap-banner_hu_4edb7a97baa8b4f0.webp 640w, https://syensi.website/carousel/hugo-bootstrap-banner_hu_f284c98c54fec102.webp 320w"
  sizes="100vw"
  alt="/carousel/hugo-bootstrap-banner.png">
  &lt;/div>
@@ -65,8 +65,8 @@
  &lt;img class="d-block w-100"
  loading="lazy" 
  style="width: 100%; height: auto; aspect-ratio: 3/2;"
- src="https://hanxi-guo.github.io/hugo-mock-landing-page-autodeployed/carousel/site-feature-image_hu_1b23dae887ca6bfa.webp"
- srcset="https://hanxi-guo.github.io/hugo-mock-landing-page-autodeployed/carousel/site-feature-image_hu_7f138b3646571915.webp 2560w, https://hanxi-guo.github.io/hugo-mock-landing-page-autodeployed/carousel/site-feature-image_hu_2485e53eba5e3e68.webp 1920w, https://hanxi-guo.github.io/hugo-mock-landing-page-autodeployed/carousel/site-feature-image_hu_1b23dae887ca6bfa.webp 1280w, https://hanxi-guo.github.io/hugo-mock-landing-page-autodeployed/carousel/site-feature-image_hu_b4ecbc11d0066456.webp 960w, https://hanxi-guo.github.io/hugo-mock-landing-page-autodeployed/carousel/site-feature-image_hu_7c6a22bf41596efc.webp 640w, https://hanxi-guo.github.io/hugo-mock-landing-page-autodeployed/carousel/site-feature-image_hu_afb681bd20bf84ef.webp 320w"
+ src="https://syensi.website/carousel/site-feature-image_hu_1b23dae887ca6bfa.webp"
+ srcset="https://syensi.website/carousel/site-feature-image_hu_7f138b3646571915.webp 2560w, https://syensi.website/carousel/site-feature-image_hu_2485e53eba5e3e68.webp 1920w, https://syensi.website/carousel/site-feature-image_hu_1b23dae887ca6bfa.webp 1280w, https://syensi.website/carousel/site-feature-image_hu_b4ecbc11d0066456.webp 960w, https://syensi.website/carousel/site-feature-image_hu_7c6a22bf41596efc.webp 640w, https://syensi.website/carousel/site-feature-image_hu_afb681bd20bf84ef.webp 320w"
  sizes="100vw"
  alt="/carousel/site-feature-image.png">
  &lt;/div>
@@ -89,7 +89,7 @@
 
 &lt;/div>
 &lt;br>
-&lt;p>See &lt;a href="https://getbootstrap.com/docs/5.3/components/carousel/" target="_blank" rel="noopener">Carousel documentation&lt;/a>.&lt;/p></description></item><item><title>Bootstrap Components ✨</title><link>https://hanxi-guo.github.io/hugo-mock-landing-page-autodeployed/page/bootstrap-components/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hanxi-guo.github.io/hugo-mock-landing-page-autodeployed/page/bootstrap-components/</guid><description>&lt;h1 id="bootstrap-components">Bootstrap Components&lt;/h1>
+&lt;p>See &lt;a href="https://getbootstrap.com/docs/5.3/components/carousel/" target="_blank" rel="noopener">Carousel documentation&lt;/a>.&lt;/p></description></item><item><title>Bootstrap Components ✨</title><link>https://syensi.website/page/bootstrap-components/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://syensi.website/page/bootstrap-components/</guid><description>&lt;h1 id="bootstrap-components">Bootstrap Components&lt;/h1>
 &lt;p>Bootstrap is bundled with tens of components that can be reused to provide a good user experience and user interactions in a web page.&lt;/p>
 &lt;hr>
 &lt;h2 id="accordion">Accordion&lt;/h2>
@@ -133,7 +133,7 @@
  &lt;/div>
 &lt;/div>
 &lt;br>
-&lt;p>See &lt;a href="https://getbootstrap.com/docs/5.3/components/accordion/" target="_blank" rel="noopener">Accordion documentation&lt;/a>.&lt;/p></description></item><item><title>Hugo Front Matter 🦉</title><link>https://hanxi-guo.github.io/hugo-mock-landing-page-autodeployed/page/hugo-front-matter/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hanxi-guo.github.io/hugo-mock-landing-page-autodeployed/page/hugo-front-matter/</guid><description>Hugo allows you to add front matter in yaml, toml, or json to your content files. Read on to know more about predefined and user-defined front matter variables.</description></item><item><title>Markdown Cheat Sheet Ⓜ️⬇️</title><link>https://hanxi-guo.github.io/hugo-mock-landing-page-autodeployed/page/markdown-cheat-sheet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hanxi-guo.github.io/hugo-mock-landing-page-autodeployed/page/markdown-cheat-sheet/</guid><description>&lt;h1 id="markdown-cheat-sheet">Markdown Cheat Sheet&lt;/h1>
+&lt;p>See &lt;a href="https://getbootstrap.com/docs/5.3/components/accordion/" target="_blank" rel="noopener">Accordion documentation&lt;/a>.&lt;/p></description></item><item><title>Hugo Front Matter 🦉</title><link>https://syensi.website/page/hugo-front-matter/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://syensi.website/page/hugo-front-matter/</guid><description>Hugo allows you to add front matter in yaml, toml, or json to your content files. Read on to know more about predefined and user-defined front matter variables.</description></item><item><title>Markdown Cheat Sheet Ⓜ️⬇️</title><link>https://syensi.website/page/markdown-cheat-sheet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://syensi.website/page/markdown-cheat-sheet/</guid><description>&lt;h1 id="markdown-cheat-sheet">Markdown Cheat Sheet&lt;/h1>
 &lt;p>Hugo has excellent Markdown support out of the box. By default, Hugo uses the &lt;a href="https://github.com/yuin/goldmark/" target="_blank" rel="noopener">Goldmark Markdown processor&lt;/a> which is fully CommonMark-compliant. See the &lt;a href="https://gohugo.io/getting-started/configuration-markup/" target="_blank" rel="noopener">configuration instructions&lt;/a> to learn more about the extensions you can configure.&lt;/p>
 &lt;h2 id="overview">Overview&lt;/h2>
 &lt;p>You can refer to the table below for an overview of basic markdown syntax:&lt;/p>
@@ -263,12 +263,12 @@
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>![&lt;span style="color:#f92672">Image&lt;/span>](&lt;span style="color:#a6e22e">placeholder-50-09f-fff.png&lt;/span>)
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>{ .img-fluid }
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>&lt;strong>Bold&lt;/strong>&lt;/p></description></item><item><title>Mission Statement 🏡</title><link>https://hanxi-guo.github.io/hugo-mock-landing-page-autodeployed/page/mission-statement/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hanxi-guo.github.io/hugo-mock-landing-page-autodeployed/page/mission-statement/</guid><description>&lt;h1 id="dormgenie-mission-statement-">&lt;strong>DormGenie Mission Statement&lt;/strong> 🏡&lt;/h1>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>&lt;strong>Bold&lt;/strong>&lt;/p></description></item><item><title>Mission Statement 🏡</title><link>https://syensi.website/page/mission-statement/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://syensi.website/page/mission-statement/</guid><description>&lt;h1 id="dormgenie-mission-statement-">&lt;strong>DormGenie Mission Statement&lt;/strong> 🏡&lt;/h1>
 &lt;h2 id="1-core-objective--why-we-exist">1. Core Objective — Why We Exist&lt;/h2>
 &lt;p>DormGenie aims to revolutionize the relocation experience by eliminating the stress and complexity of moving. Whether you’re transitioning to a new dorm, apartment, or shared space, our goal is to make the entire process smooth, organized, and enjoyable. By combining advanced technology with sustainable practices, we help users create a personalized, comfortable living space from day one.&lt;/p>
 &lt;hr>
 &lt;h2 id="2-target-audience--who-we-serve">2. Target Audience — Who We Serve&lt;/h2>
-&lt;p>DormGenie serves a diverse range of users, including:&lt;/p></description></item><item><title>Security Best Practices 🔒</title><link>https://hanxi-guo.github.io/hugo-mock-landing-page-autodeployed/page/security-best-practices/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hanxi-guo.github.io/hugo-mock-landing-page-autodeployed/page/security-best-practices/</guid><description>&lt;h1 id="security-best-practices">Security Best Practices&lt;/h1>
+&lt;p>DormGenie serves a diverse range of users, including:&lt;/p></description></item><item><title>Security Best Practices 🔒</title><link>https://syensi.website/page/security-best-practices/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://syensi.website/page/security-best-practices/</guid><description>&lt;h1 id="security-best-practices">Security Best Practices&lt;/h1>
 &lt;p>Improve code health of your web page following these best practices.&lt;/p>
 &lt;h2 id="use-https">Use HTTPS&lt;/h2>
 &lt;p>All websites should be protected with HTTPS, even ones that don&amp;rsquo;t handle sensitive data. HTTPS prevents intruders from tampering with or passively listening in on the communications between your site and your users.&lt;/p>
