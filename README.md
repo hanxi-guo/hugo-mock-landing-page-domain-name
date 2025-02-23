@@ -1,42 +1,30 @@
-# DormGenie Mock Landing Page
+# Configuring a Custom Domain for GitHub Pages
 
-Welcome to the **DormGenie** Mock Landing Page project! This is a minimalistic, fast, and responsive landing page built using [Hugo](https://gohugo.io/getting-started/installing/)—one of the world’s fastest static site generators. The theme is built based on [bootstramp template](https://github.com/filipecarneiro/hugo-bootstrap-theme) The site introduces *DormGenie*, a smart relocation assistant designed to streamline packing, shopping, and room setup for students, expats, and busy professionals.
+In this repository, I have purchased a custom domain and configured it to point to my GitHub Pages website. This process ensures that my site is accessible via a personalized URL rather than a default GitHub subdomain.
+
+## Domain Registration
+- Purchased a domain from *NameCheap*.
+- Selected a suitable domain name for the GitHub Pages site.
+
+## Repository Setup
+- Imported the previously auto-deployed repository [`hugo-mock-landing-page-autodeployed`](https://github.com/hanxi-guo/hugo-mock-landing-page-autodeployed) into a new repository to maintain version tracking while configuring the domain.
+- Configured GitHub Pages to serve the new repository.
+
+## Domain Configuration
+- Updated the **CNAME** in [`gh-pages-deployment.yaml`](.github/workflows/gh-pages-deployment.yaml) in the repository to include the custom domain.
+- Configured NameCheap DNS settings as its instuction.
+- Verified the custom domain configuration in the GitHub Pages settings.
+
+## **Repository Contents**
+- `.github/workflows/gh-pages-deployment.yaml` - Automated deployment workflow.
 
 ---
-
-## Getting Started
-
-Ensure you have the following installed:
-- **Hugo**  
-- **Git**
-
-
------
-## Troubleshooting
-
-Common Issues: 
-1. Broken icons or images:
-	see [Issue report](./Issue.md)
-2. Site showing the README instead of the page:
-  - Ensure the static files in public/ are correctly pushed to the gh-pages branch.
-  - GitHub Pages is set to serve from the correct branch.
-3. Resource 404 errors
-	Double-check the baseURL in config.toml to match the deployment URL.
-
-------
-## Contributing
-
-Welcome contributions to improve the site!
-- Report issues or request features via the Issues tab.
-- Feel free to submit pull requests for enhancements or bug fixes.
-
- -------
 
 ## License
 
 This project is licensed under the MIT License.
 
-------
+---
 
-Happy coding! 🎉 Let me know if you build something exciting with this repository. 😊
+This repository serves as an extension of the previously auto-deployed Hugo website, now enhanced with a custom domain for better accessibility and branding. 🚀
 
